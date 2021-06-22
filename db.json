@@ -1,0 +1,15 @@
+{
+    "data": [
+        {
+            "id": "60d07c81c8de163d662cef67",
+            "title": "Town hall",
+            "slug": "town-hall",
+            "description": "Main channel",
+            "type": "town hall",
+            "active": true,
+            "background": null,
+            "logo": null,
+            "createdAt": 1623925993835
+        }
+    ]
+}
