@@ -9,5 +9,37 @@
         "background": null,
         "logo": null,
         "createdAt": 1623925993835
-    }
+    },
+    posts: [
+        {
+            "id": "60d07c81c8de163d662abcd",
+            "title": "Town Post 1",
+            "description": "This is first testing post for town-post",
+            "type": "text",
+            "images": null,
+            "yt": null,
+            "url": null,
+            "createdAt": 1623925993835
+        },
+        {            
+            "id": "30d07c81c8de1567d662abcd",
+            "title": "Town Post 2",
+            "description": "This is first testing Youtube post for town-post",
+            "type": "yt",
+            "images": null,
+            "yt": null,
+            "url": null,
+            "createdAt": 1623955993867
+        },
+        {
+            "id": "40d07c81c8de1567d662fff",
+            "title": "Town Post 3",
+            "description": "This is first testing URL post for town-post",
+            "type": "url",
+            "images": null,
+            "yt": null,
+            "url": null,
+            "createdAt": 1633925993987
+        },
+    ]
 }
