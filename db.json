@@ -10,7 +10,7 @@
         "logo": null,
         "createdAt": 1623925993835
     },
-    posts: [
+    "posts": [
         {
             "id": "60d07c81c8de163d662abcd",
             "title": "Town Post 1",
